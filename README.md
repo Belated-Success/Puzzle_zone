@@ -1,16 +1,11 @@
 # puzzle_game
 
-A new Flutter project.
+👋Hi, there after many ups and down , I make a puzzle hack clone. 
 
-## Getting Started
+# Aim
 
-This project is a starting point for a Flutter application.
+This project tells and explain minimum number of ways can a image is corrected wrt time.
 
-A few resources to get you started if this is your first Flutter project:
+# Gallery
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (84)](https://user-images.githubusercontent.com/74767290/160669538-93d3bc63-cde6-4a41-a270-b749cb9784b4.png)
