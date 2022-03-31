@@ -1,4 +1,4 @@
-# puzzle_game
+# Jumble Dumble
 
 👋Hi, there after many ups and down , I make a puzzle hack clone. 
 
