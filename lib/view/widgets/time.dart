@@ -9,7 +9,7 @@ class Time extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(top: 12.0),
+      padding: const EdgeInsets.only(top: 0),
       child: Container(
         height: 50,
         alignment: Alignment.center,
